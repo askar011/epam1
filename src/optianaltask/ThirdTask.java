@@ -1,4 +1,4 @@
-package edu.epam.train;
+package optianaltask;
 
 public class ThirdTask {
 
@@ -102,6 +102,9 @@ public class ThirdTask {
     public static boolean ordered(String number){
         boolean temp = false;
         String[] n = number.split("");
+        if (n.length==1){
+            temp = true;
+        }
         for (int i = 0; i < n.length-1; i++){
             if (Integer.parseInt(n[i]) <= Integer.parseInt(n[i+1])){
                 temp = true;

@@ -1,7 +1,7 @@
 package Test;
 
 
-import edu.epam.train.FirstTask;
+import optianaltask.FirstTask;
 import org.junit.Assert;
 import org.junit.Test;
 

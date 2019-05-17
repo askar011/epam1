@@ -1,4 +1,4 @@
-package edu.epam.train.Main;
+package edu.epam.pizza.entity;
 
 public enum Ingredients {
 

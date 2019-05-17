@@ -1,4 +1,4 @@
-package edu.epam.train;
+package optianaltask;
 
 public class FirstTask {
 

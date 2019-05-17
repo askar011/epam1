@@ -1,4 +1,4 @@
-package edu.epam.train;
+package optianaltask;
 
 import java.util.Random;
 
